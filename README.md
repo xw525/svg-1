@@ -9,4 +9,4 @@ Jeannie Nam's svg project
 * Each horse links to a different website relating to the theme.
 * My svg also uses various colors, opacity and gradients for the hover and link states.
 
-[See my svg project at i6.cims.nyu.edu] {http://i6.cims.nyu.edu/~jjn268/380/svg/}
+See my svg project at i6.cims.nyu.edu {http://i6.cims.nyu.edu/~jjn268/380/svg/}
