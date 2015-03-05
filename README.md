@@ -2,7 +2,7 @@
 svg projects for drawing on the web
 
 #####*Updating README file and demonstrating markdown syntax:*
-##Jeannie Nam's svg project
+Jeannie Nam's svg project
 ---------------------------
 
 * My svg project, titled *horse race collage* features three overlapping horses against a colored background. 
