@@ -5,7 +5,7 @@ svg projects for drawing on the web
 Jeannie Nam's svg project
 =========================
 
-* My svg project, titled ''horse race collage'' features three overlapping horses against a colored background. 
+* My svg project, titled *horse race collage* features three overlapping horses against a colored background. 
 * Each horse links to a different website relating to the theme.
 * My svg also uses various colors, opacity and gradients for the hover and link states.
 
